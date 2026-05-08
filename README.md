@@ -174,7 +174,7 @@ http://127.0.0.1:8000/
 Postman collection is available in:
 
 ```text
-https://www.postman.com/spycat/workspace/travel
+Travel Manager API.postman_collection.json
 ```
 
 Import the collection into Postman to test all endpoints.
